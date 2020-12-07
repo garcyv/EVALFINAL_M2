@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="EVALUACION_FINAL_M2" id="2C96FBA0-8245-DCDB-7C56-B1AFC65C433C" version="3.5">
+<createdBy>Garcy</createdBy>
+<createdTime>2020-12-07 13:37:02 UTC</createdTime>
+<ownerDesignName>EVALUACION_FINAL_M2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2C96FBA0-8245-DCDB-7C56-B1AFC65C433C</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="7396947C-D359-9B3D-43CA-BB952E42BC76">
+<designStoragePath>C:\EVALUACION_FINAL_M2</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
